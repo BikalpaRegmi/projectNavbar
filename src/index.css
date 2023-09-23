@@ -1,0 +1,19 @@
+
+#main_navbar{
+   background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+  text-transform: capitalize;
+}
+*{
+    text-transform: capitalize;
+}
+.active{
+    background-color: aliceblue;
+    border-bottom: 1px solid black;
+    transition: 0.7s;
+}
+.d{
+    text-decoration: none;
+    color: black;
+}
